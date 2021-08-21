@@ -2,6 +2,6 @@ version: "3.7"
 services:
   webapp:
     build: .
-    image: ashwinik87/devops:v2
+    image: ashwinik87/devops
     ports:
     - "4200:4200"
